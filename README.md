@@ -3,11 +3,13 @@
 Hi 👋 My name is Santiago Orrego Díaz
 =====================================
 
+
 React Developer
 ---------------
 
+<p align="left">
 Passionate about technologies; and as an organized and highly motivated person I am able to adapt to any circumstance always giving the best of me. As a FrontEnd developer I have acquired vast experience in ReactJS applied in projects with agile methodologies. Experience in functional and non-functional requirements gathering and analysis. With my experience in development I can be of value in different types of projects, fostering teamwork, respect and responsibility.
-
+ </p>
 
 *   🌍  I'm based in Medellín, Antioquia
 *   ✉️  You can contact me at [santiagoorregodiaz@gmail.com](mailto:santiagoorregodiaz@gmail.com)
