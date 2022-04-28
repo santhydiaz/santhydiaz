@@ -1,15 +1,20 @@
 Hi 👋 My name is Santiago Orrego Díaz
 =====================================
-<img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300">
+
 React Developer
 ---------------
-
+<img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300">
 Passionate about technologies; and as an organized and highly motivated person I am able to adapt to any circumstance always giving the best of me. As a FrontEnd developer I have acquired vast experience in ReactJS applied in projects with agile methodologies. Experience in functional and non-functional requirements gathering and analysis. With my experience in development I can be of value in different types of projects, fostering teamwork, respect and responsibility.
+
+
 
 *   🌍  I'm based in Medellín, Antioquia
 *   ✉️  You can contact me at [santiagoorregodiaz@gmail.com](mailto:santiagoorregodiaz@gmail.com)
 *   🚀  I'm currently working on [IG Services S.A.S](http://intergrupo.com)
-*   ⚡  I'm a musician || Drummer and Rugbier### Skills<p align="left">
+*   ⚡  I'm a musician || Drummer and Rugbier
+
+### Skills
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -23,11 +28,7 @@ Passionate about technologies; and as an organized and highly motivated person I
                                 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
                     </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/santhydiaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/santhydiaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/santhydiaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhydiaz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Socials
+<p align="left">
+<a href="https://www.github.com/santhydiaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+ <a href="https://www.linkedin.com/in/santhydiaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/santhydiaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhydiaz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
