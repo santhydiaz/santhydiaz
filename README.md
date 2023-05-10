@@ -13,7 +13,7 @@ Passionate about technologies; and as an organized and highly motivated person I
 
 *   🌍  I'm based in Medellín, Antioquia
 *   ✉️  You can contact me at [santiagoorregodiaz@gmail.com](mailto:santiagoorregodiaz@gmail.com)
-*   🚀  I'm currently working on [IG Services S.A.S](http://intergrupo.com)
+*   🚀  I'm currently working on [SoftwareONE Colombia](https://www.softwareone.com/es-co)
 *   ⚡  I'm a musician || Drummer and Rugbier
 
 ### Skills
